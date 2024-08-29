@@ -43,7 +43,7 @@ We welcome questions, suggestions, and ideas from participants. Your input is in
 
 
 ## Obtaining Course Materials
-Course materials, including Jupyter notebooks for the hands-on sessions, will be available in this GitHub repository. Participants are encouraged to follow along with the example code, attempt exercises to practice the concepts learned, and download the latest version of the materials before each lecture to stay updated.
+Course materials, including Jupyter notebooks for the hands-on sessions, will be available in this GitHub repository. Additional instructions are provided under this [link](https://docs.google.com/presentation/d/12ly5htvdlFmHtKCaZtZrzu5uG_JtrplyQkhpVfULoeM/edit?usp=drive_link). Participants are encouraged to follow along with the example code, attempt exercises to practice the concepts learned, and download the latest version of the materials before each lecture to stay updated.
 
 ***Important:*** The course materials will be updated throughout the course, ensuring you have access to the most current information and examples.
 
