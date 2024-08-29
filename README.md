@@ -4,8 +4,11 @@ Welcome to the “International Workshop on Promoting AI-Supported Eco-Activism 
 This workshop aims to bring together researchers, activists, policymakers, and practitioners from the region to explore innovative ways of utilizing artificial intelligence (AI) to enhance environmental activism.
 
 **Date:** September 26th and 27th, 2024
+
 **Location:** Prilep, North Macedonia
+
 **Eligibility:** Participants from North Macedonia, Kosovo*, Serbia, Albania, Montenegro, and Bosnia and Herzegovina are invited to apply.
+
 **Speakers:**  Pavel Gora Ph.D.; Sylwia Majchrowska Ph.D.; Marjan Angeleski Ph.D; Gjorgji Mancheski Ph.D; Dimitar Nikoloski Ph.D. 
 
 ## Introduction
